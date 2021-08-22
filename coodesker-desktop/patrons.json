@@ -42,13 +42,6 @@
 		"platform": "微信支付"
     },
 	{
-        "name": "**迪",
-        "value": 10,
-		"valueInUsd": 1.55,
-		"currency": "CNY ¥",
-		"platform": "支付宝"
-    },
-	{
         "name": "**渊",
         "value": 6,
 		"valueInUsd": 0.93,
@@ -61,5 +54,12 @@
 		"valueInUsd": 4.64,
 		"currency": "CNY ¥",
 		"platform": "微信支付"
+    },
+	{
+        "name": "Frank",
+        "value": 10,
+		"valueInUsd": 1.55,
+		"currency": "CNY ¥",
+		"platform": "支付宝"
     }
 ]
