@@ -61,5 +61,33 @@
 		"valueInUsd": 1.55,
 		"currency": "CNY ¥",
 		"platform": "支付宝"
+    },
+    {
+        "name": "C*u",
+        "value": 30.0,
+		"valueInUsd": 4.64,
+		"currency": "CNY ¥",
+		"platform": "微信支付"
+    },
+	{
+        "name": "*少",
+        "value": 9.9,
+		"valueInUsd": 1.55,
+		"currency": "CNY ¥",
+		"platform": "微信支付"
+    },
+	{
+        "name": "小小的资瓷",
+        "value": 37,
+		"valueInUsd": 5.71,
+		"currency": "CNY ¥",
+		"platform": "微信支付"
+    },
+	{
+        "name": "**然",
+        "value": 10,
+		"valueInUsd": 1.55,
+		"currency": "CNY ¥",
+		"platform": "支付宝"
     }
 ]
