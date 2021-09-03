@@ -2,21 +2,21 @@
   "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.18/Coodesker_1.0.0.19.exe",
   "ver": "1.0.0.19",
   "x64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.26/Coodesker-x64_1.0.0.26.exe",
-    "ver": "1.0.0.26"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.27/Coodesker-x64_1.0.0.27.exe",
+    "ver": "1.0.0.27"
   },
   "x86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.26/Coodesker-x86_1.0.0.26.exe",
-    "ver": "1.0.0.26"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.27/Coodesker-x86_1.0.0.27.exe",
+    "ver": "1.0.0.27"
   },
   "Portablex64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.26/Coodesker-Portable-x64_1.0.0.26.zip",
-    "ver": "1.0.0.26"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.27/Coodesker-Portable-x64_1.0.0.27.zip",
+    "ver": "1.0.0.27"
   },
   "Portablex86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.26/Coodesker-Portable-x86_1.0.0.26.zip",
-    "ver": "1.0.0.26"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.27/Coodesker-Portable-x86_1.0.0.27.zip",
+    "ver": "1.0.0.27"
   },
-  "version": "v1.0.0.26",
-  "description": "* Fixed crash when update Graphics card drive\r\n* Support check to show box border\r\n* Fixed box has duplicate icon problem\r\n* Support auto check update\r\n* Support auto switch tab when mouse move on the tab"
+  "version": "v1.0.0.27",
+  "description": "* Show scroll bar when mouse move on box\r\n* Disable copy menu when text format in clipboard\r\n* Fixed drag crash and support drag FileGroupDescriptor\r\n* Add feedback entry\r\n* Fixed layout missing when update VGA Driver\r\n* Default font in accord with system"
 }
