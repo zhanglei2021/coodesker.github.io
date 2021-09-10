@@ -2,21 +2,21 @@
   "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.18/Coodesker_1.0.0.19.exe",
   "ver": "1.0.0.19",
   "x64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.28/Coodesker-x64_1.0.0.28.exe",
-    "ver": "1.0.0.28"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-x64_1.0.0.29.exe",
+    "ver": "1.0.0.29"
   },
   "x86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.28/Coodesker-x86_1.0.0.28.exe",
-    "ver": "1.0.0.28"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-x86_1.0.0.29.exe",
+    "ver": "1.0.0.29"
   },
   "Portablex64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.28/Coodesker-Portable-x64_1.0.0.28.zip",
-    "ver": "1.0.0.28"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-Portable-x64_1.0.0.29.zip",
+    "ver": "1.0.0.29"
   },
   "Portablex86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.28/Coodesker-Portable-x86_1.0.0.28.zip",
-    "ver": "1.0.0.28"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-Portable-x86_1.0.0.29.zip",
+    "ver": "1.0.0.29"
   },
-  "version": "v1.0.0.28",
-  "description": "* Fixed layout missing or crashed when update VGA Driver"
+  "version": "v1.0.0.29",
+  "description": "* Support schedule task boot\r\n* Fixed gdiplus can not draw opentype font\r\n* Fixed icon position can't be saved realtime"
 }
