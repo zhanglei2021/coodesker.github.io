@@ -2,21 +2,21 @@
   "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.18/Coodesker_1.0.0.19.exe",
   "ver": "1.0.0.19",
   "x64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-x64_1.0.0.29.exe",
-    "ver": "1.0.0.29"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.30/Coodesker-x64_1.0.0.30.exe",
+    "ver": "1.0.0.30"
   },
   "x86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-x86_1.0.0.29.exe",
-    "ver": "1.0.0.29"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.30/Coodesker-x86_1.0.0.30.exe",
+    "ver": "1.0.0.30"
   },
   "Portablex64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-Portable-x64_1.0.0.29.zip",
-    "ver": "1.0.0.29"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.30/Coodesker-Portable-x64_1.0.0.30.zip",
+    "ver": "1.0.0.30"
   },
   "Portablex86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.29/Coodesker-Portable-x86_1.0.0.29.zip",
-    "ver": "1.0.0.29"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.30/Coodesker-Portable-x86_1.0.0.30.zip",
+    "ver": "1.0.0.30"
   },
-  "version": "v1.0.0.29",
-  "description": "* Support schedule task boot\r\n* Fixed gdiplus can not draw opentype font\r\n* Fixed icon position can't be saved realtime"
+  "version": "v1.0.0.30",
+  "description": "* Support create new folder hotkey(Ctrl+Shift+N)\r\n* Delete invalid white icon in desktop\r\n* Compatible with QuickLook\r\n* Fixed organize rules missing sometimes\r\n* Add Japanese(thanks 漫の影)"
 }
