@@ -2,21 +2,21 @@
   "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.18/Coodesker_1.0.0.19.exe",
   "ver": "1.0.0.19",
   "x64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.32/Coodesker-x64_1.0.0.32.exe",
-    "ver": "1.0.0.32"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-x64_1.0.0.33.exe",
+    "ver": "1.0.0.33"
   },
   "x86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.32/Coodesker-x86_1.0.0.32.exe",
-    "ver": "1.0.0.32"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-x86_1.0.0.33.exe",
+    "ver": "1.0.0.33"
   },
   "Portablex64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.32/Coodesker-Portable-x64_1.0.0.32.zip",
-    "ver": "1.0.0.32"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-Portable-x64_1.0.0.33.zip",
+    "ver": "1.0.0.33"
   },
   "Portablex86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.32/Coodesker-Portable-x86_1.0.0.32.zip",
-    "ver": "1.0.0.32"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-Portable-x86_1.0.0.33.zip",
+    "ver": "1.0.0.33"
   },
-  "version": "v1.0.0.32",
-  "description": "* Fixed desktop transparent when sleep mode ended\r\n* Optimize box drag operation\r\n* Fixed box can not unexpand sometimes"
+  "version": "v1.0.0.33",
+  "description": "* Add auto check update entry\r\n* Support setting single box theme\r\n* Fixed network bugs"
 }

@@ -103,5 +103,19 @@
 		"valueInUsd": 1.55,
 		"currency": "CNY ¥",
 		"platform": "支付宝"
+    },
+	{
+        "name": "*X",
+        "value": 58,
+		"valueInUsd": 9.08,
+		"currency": "CNY ¥",
+		"platform": "微信"
+    },
+	{
+        "name": "T*g",
+        "value": 20,
+		"valueInUsd": 3.11,
+		"currency": "CNY ¥",
+		"platform": "微信"
     }
 ]
