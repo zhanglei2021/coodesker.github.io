@@ -117,5 +117,26 @@
 		"valueInUsd": 3.11,
 		"currency": "CNY ¥",
 		"platform": "微信"
+    },
+	{
+        "name": "*跃",
+        "value": 10,
+		"valueInUsd": 1.55,
+		"currency": "CNY ¥",
+		"platform": "微信"
+    },
+	{
+        "name": "*洽",
+        "value": 50,
+		"valueInUsd": 7.82,
+		"currency": "CNY ¥",
+		"platform": "微信"
+    },
+	{
+        "name": "风之印象",
+        "value": 100,
+		"valueInUsd": 15.63,
+		"currency": "CNY ¥",
+		"platform": "微信"
     }
 ]

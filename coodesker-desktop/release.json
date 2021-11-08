@@ -2,21 +2,21 @@
   "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.18/Coodesker_1.0.0.19.exe",
   "ver": "1.0.0.19",
   "x64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-x64_1.0.0.33.exe",
-    "ver": "1.0.0.33"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-x64_1.0.0.34.exe",
+    "ver": "1.0.0.34"
   },
   "x86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-x86_1.0.0.33.exe",
-    "ver": "1.0.0.33"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-x86_1.0.0.34.exe",
+    "ver": "1.0.0.34"
   },
   "Portablex64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-Portable-x64_1.0.0.33.zip",
-    "ver": "1.0.0.33"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-Portable-x64_1.0.0.34.zip",
+    "ver": "1.0.0.34"
   },
   "Portablex86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.33/Coodesker-Portable-x86_1.0.0.33.zip",
-    "ver": "1.0.0.33"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-Portable-x86_1.0.0.34.zip",
+    "ver": "1.0.0.34"
   },
-  "version": "v1.0.0.33",
-  "description": "* Add auto check update entry\r\n* Support setting single box theme\r\n* Fixed network bugs"
+  "version": "v1.0.0.34",
+  "description": "* Fixed issue (https://github.com/coodesker/coodesker-desktop/issues/99)\r\n* Optimize drag and drop operation"
 }
