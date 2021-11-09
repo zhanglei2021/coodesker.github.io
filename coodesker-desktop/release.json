@@ -2,21 +2,21 @@
   "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.18/Coodesker_1.0.0.19.exe",
   "ver": "1.0.0.19",
   "x64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-x64_1.0.0.34.exe",
-    "ver": "1.0.0.34"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.35/Coodesker-x64_1.0.0.35.exe",
+    "ver": "1.0.0.35"
   },
   "x86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-x86_1.0.0.34.exe",
-    "ver": "1.0.0.34"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.35/Coodesker-x86_1.0.0.35.exe",
+    "ver": "1.0.0.35"
   },
   "Portablex64": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-Portable-x64_1.0.0.34.zip",
-    "ver": "1.0.0.34"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.35/Coodesker-Portable-x64_1.0.0.35.zip",
+    "ver": "1.0.0.35"
   },
   "Portablex86": {
-    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.34/Coodesker-Portable-x86_1.0.0.34.zip",
-    "ver": "1.0.0.34"
+    "download": "https://github.com/coodesker/coodesker-desktop/releases/download/v1.0.0.35/Coodesker-Portable-x86_1.0.0.35.zip",
+    "ver": "1.0.0.35"
   },
-  "version": "v1.0.0.34",
-  "description": "* Fixed issue (https://github.com/coodesker/coodesker-desktop/issues/99)\r\n* Optimize drag and drop operation"
+  "version": "v1.0.0.35",
+  "description": "* Fixed file position error when download file to desktop\r\n* Fixed residual shadow when drag box\r\n* Fixed coodesker not restart when explorer restart"
 }
